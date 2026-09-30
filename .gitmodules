@@ -1,0 +1,3 @@
+[submodule "joinquant-skill"]
+	path = joinquant-skill
+	url = https://github.com/gaaiyun/joinquant-skill.git
